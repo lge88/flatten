@@ -1,0 +1,14 @@
+{
+  "name": "flatten",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "http://github.com/lge88/flatten.git"
+  },
+  "devDependencies": {
+    "expect.js": "*"
+  },
+  "main": "lib/index.js"
+}
